@@ -1,0 +1,22 @@
+{
+  "name": "repo_anisa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisayondari12/Repo_anisa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anisayondari12/Repo_anisa/issues"
+  },
+  "homepage": "https://github.com/anisayondari12/Repo_anisa#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
